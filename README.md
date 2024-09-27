@@ -1,4 +1,4 @@
-# Automaçãoao de Testes de Software com
+# Automação de Testes de Software com
 Aprendizado de Máquina
 
 Projeto de Pesquisa com o tema Automação de Testes de Software com Aprendizado de Máquina.
