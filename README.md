@@ -1,19 +1,14 @@
-# Nome do projeto
+# Automaçãoao de Testes de Software com
+Aprendizado de Máquina
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+Projeto de Pesquisa com o tema Automação de Testes de Software com Aprendizado de Máquina.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Iago Fereguetti Ribeiro
+* Lucas Henrique Rocha Hauck
 
 ## Professores responsáveis
 
-* Nome do professor 1
-* Nome do professor 2
-* Nome do professor 3
-* Nome do professor 3
+* Leonardo Vilela Cardosa
 
-## Instruções de Replicação/Reprodução
-
-Apresentar instruções de como o trabalho pode ser replicado/reproduzido quando for o caso.
